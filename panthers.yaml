@@ -4,8 +4,13 @@ manager: Sebastian
 
 coach : Teddys
 
+<<<<<<< HEAD
 members:git
 - Violet
+=======
+members:
+- Violets
+>>>>>>> bba4cea13209da8574537b07d5d891b3b4c22d67
 - Stella
 - Anthony
 - Freddieg
